@@ -1,0 +1,220 @@
+Object Oriented Programing (OOPs)
+
+
+class -- Template/Blueprint
+Object -- Instance of a class
+Abstraction -- Hiding internal implementation details 
+Inheritance -- (Speciliazation)
+	- Single Level inheritance
+	- Muli level inheitance
+	- Multiple Inheritance
+Polymorphism
+Encapsulation
+
+
+Single: 
+-------
+
+A -- Level 0    Animal
+^
+|
+|
+B -- Level 1	Dog  Horse
+
+Multi level:
+-------------
+
+A -- Level 0   Animal
+^
+|
+|
+B -- Level 1   Dog
+^
+|
+|
+C -- Level 2   Labrador
+
+Multiple:
+--------
+
+A        	B
+|			|
+---- C-------
+
+
+Variable
+Method
+Interface
+Abstract Class
+
+
+
+
+
+
+Object
+	-- Property (How do you describe it) --> Variables
+    -- Behaviour (What is does/ How it behave/ What you can do with it) --> Methods
+
+
+
+    Car
+    ----
+
+    Properties:
+
+    	-- Color
+    	-- Type
+    	-- Size
+    	-- NoOfSeats
+    	-- Mirrron
+    	-- NoPlate
+    	-- RegistrationNumber
+    	-- Brand
+
+
+    Behavior: (Method)
+
+    	-- Drive
+    	-- Accelarate
+    	-- applyBreak
+    	-- ListenMusic
+    	-- SwitchOnAc
+
+
+    Person
+    ------
+
+    Properties:
+    	-
+    	-
+    	-
+
+
+    Behavior:
+    	-
+    	-
+
+
+
+
+
+Types of association:
+
+1. Aggregation
+2. Composition
+
+class University{
+	
+
+}
+
+
+class Professor{
+	
+}
+
+
+class Library{
+	
+}
+
+
+class Animal{
+	canBreathe(){
+	vbjsbv
+	vkssnvs
+	snvsl
+
+	}
+	canEat()
+}
+
+
+class Dog{
+	canBark()
+	canSmell()
+}
+
+
+class Labrador{
+
+	canBreathe()
+	canEat()
+
+	canBark()
+	canSmell()
+
+	isVeryBig()
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#include <stdio.h>
+
+
+void main(){
+	
+	int num1 = 2;
+	int num2 = 3;
+
+	add(num1, num2);
+	substract(num1, num2);
+	multiplication(num1, num2);
+	add(num1, num2);
+}
+
+
+
+int add(int num1, int num2){
+	
+}
+
+
+int substract(int num1, int num2){
+	
+}
+
+
+int multiplication(int num1, int num2){
+	
+
+}
